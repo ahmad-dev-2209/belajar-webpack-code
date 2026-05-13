@@ -12,3 +12,5 @@ export class JokesService {
     this.tombolJokes.addEventListener('click', cb);
   }
 }
+
+
